@@ -9,6 +9,7 @@ A collaborative curated list of awesome Scalingo resources
 - Kinto : A generic JSON document store with sharing and synchronisation capabilities. [Github](https://github.com/Kinto/kinto-scalingo) / [Doc](https://docs.kinto-storage.org/en/2.0.0/get-started.html#deploy-an-instance-on-scalingo)
 - Matomo : Free and open source web analytics application, designed to be an open and compliant with GDPR alternative to Google Analytics. [Github](https://github.com/1024pix/matomo-buildpack)
 - Mattermost : Open source Slack-alternative in Golang and React (Work In Progress) [Github](https://github.com/MTES-MCT/mattermost-buildpack)
+   - Matterbridge : [Github](https://github.com/betagouv/matterbridge-paas)
 - Metabase : The simplest, fastest way to get business intelligence and analytics to everyone in your company [Github](https://github.com/Scalingo/metabase-scalingo) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-metabase)
 - n8n : Free and Open Workflow Automation Tool [Github](https://github.com/jbuget/n8n-scalingo)
 - Prometheus : Prometheus is a systems and service monitoring system. [Github](https://github.com/Scalingo/prometheus-buildpack)
