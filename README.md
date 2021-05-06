@@ -41,3 +41,6 @@ A collaborative curated list of awesome Scalingo resources
 - Heroku2scalingo : Migrate from Heroku to Scalingo in a minute. [Github](https://github.com/Scalingo/heroku2scalingo)
 - Terraform provider to provision Scalingo applications and databases [Github](https://github.com/Scalingo/terraform-provider-scalingo) / [Examples](https://github.com/Scalingo/terraform-provider-scalingo-examples) / [Examples with Outscale](https://github.com/Scalingo/customer-terraform-docker-dev-prod-parity)
 
+## Other
+- Github repository with #scalingo topics : [Github](https://github.com/topics/scalingo)
+
