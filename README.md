@@ -19,6 +19,7 @@ A collaborative curated list of awesome Scalingo resources
 ## Buildpacks
 
 - Multiple buildpack handling for deploying apps on Scalingo [Github](https://github.com/Scalingo/multi-buildpack)
+- APT Buildpack [Scalingo Doc](https://doc.scalingo.com/platform/deployment/buildpacks/apt)
 
 ## Out of the box supported app
 
