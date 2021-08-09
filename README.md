@@ -1,7 +1,9 @@
 # awesome-scalingo
 A collaborative curated list of awesome Scalingo resources
 
-## Apps Builpacks or Adaptation
+## Apps deployable on Scalingo
+
+### Apps deployed with buildpacks or other adaptation
 
 - Grafana : The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multi… [Github](https://github.com/Scalingo/grafana-scalingo) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-grafana)
 - Keycloak : Open Source Identity and Access Management [Github](https://github.com/MTES-MCT/keycloak-buildpack)
@@ -16,12 +18,7 @@ A collaborative curated list of awesome Scalingo resources
 - Sonarqube : SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. [Github](https://github.com/Scalingo/scalingo-sonarqube) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-sonarqube)
 - Wordpress [Github](https://github.com/Scalingo/scalingo-wordpress) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-wordpress)
 
-## Intermediary Buildpacks
-
-- Multiple buildpack handling for deploying apps on Scalingo [Github](https://github.com/Scalingo/multi-buildpack)
-- APT Buildpack [Scalingo Doc](https://doc.scalingo.com/platform/deployment/buildpacks/apt)
-
-## Out of the box supported app
+### Apps deployed without adaptation
 
 - loklak : loklak is a server application which is able to collect messages from various sources, including twitter. [Github](https://github.com/loklak/loklak_server)
 - Mastodon : Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. [Github](https://github.com/tootsuite/mastodon)
@@ -34,6 +31,11 @@ A collaborative curated list of awesome Scalingo resources
 - Vouch Proxy : an SSO and OAuth / OIDC login solution for Nginx using the auth_request module [Github](https://github.com/vouch/vouch-proxy)
    - Needed env variable : `GOVERSION=go1.15`, `VOUCH_PORT=$PORT`, `VOUCH_ROOT=/app` + your config
 - Wekan : The Open Source kanban (built with Meteor) [Github](https://github.com/wekan/wekan)
+
+## Intermediary Buildpacks
+
+- Multiple buildpack handling for deploying apps on Scalingo [Github](https://github.com/Scalingo/multi-buildpack)
+- APT Buildpack [Scalingo Doc](https://doc.scalingo.com/platform/deployment/buildpacks/apt)
 
 ## SaaS Integrations 
 - Travis CI - Test and Deploy with Confidence [Doc](https://docs.travis-ci.com/user/deployment-v2/providers/scalingo/)
