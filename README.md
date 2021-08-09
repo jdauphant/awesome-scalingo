@@ -16,7 +16,7 @@ A collaborative curated list of awesome Scalingo resources
 - Sonarqube : SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. [Github](https://github.com/Scalingo/scalingo-sonarqube) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-sonarqube)
 - Wordpress [Github](https://github.com/Scalingo/scalingo-wordpress) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-wordpress)
 
-## Buildpacks
+## Intermediary Buildpacks
 
 - Multiple buildpack handling for deploying apps on Scalingo [Github](https://github.com/Scalingo/multi-buildpack)
 - APT Buildpack [Scalingo Doc](https://doc.scalingo.com/platform/deployment/buildpacks/apt)
