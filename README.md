@@ -31,6 +31,8 @@ A collaborative curated list of awesome Scalingo resources
 - RSS-Bridge : RSS-Bridge is a PHP project capable of generating RSS and Atom feeds for websites that don't have one. [Github](https://github.com/RSS-Bridge/rss-bridge)
 - Susi.AI : SUSI.AI is an intelligent Open Source personal assistant. It is capable of chat and voice interaction by using APIs  [Github](https://github.com/fossasia/susi_server)
 - Telescope : Telescope Nova is a free, open-source app platform built with React and powered by Meteor on the back-end. [Doc](https://telescope.readme.io/docs/deploying)
+- Vouch Proxy : an SSO and OAuth / OIDC login solution for Nginx using the auth_request module [Github](https://github.com/vouch/vouch-proxy)
+   - Needed env variable : `GOVERSION=go1.15`, `VOUCH_PORT=$PORT`, `VOUCH_ROOT=/app` + your config
 - Wekan : The Open Source kanban (built with Meteor) [Github](https://github.com/wekan/wekan)
 
 ## SaaS Integrations 
