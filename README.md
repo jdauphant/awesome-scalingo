@@ -45,6 +45,7 @@ A collaborative curated list of awesome Scalingo resources
 - Adminer : Adminer is a web application to administrate various databases (MySQL, PostgreSQL, MongoDB and Elasticsearch). [Doc](https://doc.scalingo.com/platform/databases/adminer)
 - Heroku2scalingo : Migrate from Heroku to Scalingo in a minute. [Github](https://github.com/Scalingo/heroku2scalingo)
 - Terraform provider to provision Scalingo applications and databases [Github](https://github.com/Scalingo/terraform-provider-scalingo) / [Examples](https://github.com/Scalingo/terraform-provider-scalingo-examples) / [Examples with Outscale](https://github.com/Scalingo/customer-terraform-docker-dev-prod-parity)
+- Steampipe plugin : Use SQL to query everything about apps, addons, and more [Github](https://github.com/francois2metz/steampipe-plugin-scalingo)
 
 ## Other
 - Github repository with #scalingo topics : [Github](https://github.com/topics/scalingo)
