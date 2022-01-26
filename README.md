@@ -14,8 +14,10 @@ A collaborative curated list of awesome Scalingo resources
    - Matterbridge : [Github](https://github.com/betagouv/matterbridge-paas)
 - Metabase : The simplest, fastest way to get business intelligence and analytics to everyone in your company [Github](https://github.com/Scalingo/metabase-scalingo) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-metabase)
 - n8n : Free and Open Workflow Automation Tool [Github](https://github.com/jbuget/n8n-scalingo). You can also deploy [n8n in One click on Scalingo](https://github.com/Scalingo/n8n-scalingo)
+- Nginx buildpack : customizable reverse proxy [Github](https://github.com/Scalingo/nginx-buildpack)
 - Prometheus : Prometheus is a systems and service monitoring system. [Github](https://github.com/Scalingo/prometheus-buildpack)
 - Sonarqube : SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. [Github](https://github.com/Scalingo/scalingo-sonarqube) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-sonarqube)
+- Traefik buildpack : The Cloud Native Application Proxy [Github](https://github.com/pli01/scalingo-traefik-buildpack)
 - Wordpress [Github](https://github.com/Scalingo/scalingo-wordpress) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-wordpress)
 
 ### Apps deployed without adaptation
