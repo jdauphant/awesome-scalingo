@@ -38,7 +38,7 @@ A collaborative curated list of awesome Scalingo resources
 
 - Multiple buildpack handling for deploying apps on Scalingo [Github](https://github.com/Scalingo/multi-buildpack)
 - APT Buildpack [Scalingo Doc](https://doc.scalingo.com/platform/deployment/buildpacks/apt)
-- Google Chrome Buildpack [Github](https://github.com/SebouChu/scalingo-buildpack-google-chrome)
+- Google Chrome Buildpack [Github](https://github.com/noesya/scalingo-buildpack-google-chrome)
 
 ## SaaS Integrations 
 - Travis CI - Test and Deploy with Confidence [Doc](https://docs.travis-ci.com/user/deployment-v2/providers/scalingo/)
