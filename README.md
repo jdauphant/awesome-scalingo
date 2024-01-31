@@ -19,6 +19,7 @@ A collaborative curated list of awesome Scalingo resources
 - Sonarqube : SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. [Github](https://github.com/Scalingo/scalingo-sonarqube) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-sonarqube)
 - Traefik buildpack : The Cloud Native Application Proxy [Github](https://github.com/pli01/scalingo-traefik-buildpack)
 - Wordpress [Github](https://github.com/Scalingo/scalingo-wordpress) / [Doc](https://doc.scalingo.com/platform/getting-started/getting-started-with-wordpress)
+- Grist [Github](https://github.com/MTES-MCT/grist-buildpack)
 
 ### Apps deployed without adaptation
 
